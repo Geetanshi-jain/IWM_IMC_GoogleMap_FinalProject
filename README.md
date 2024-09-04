@@ -3,9 +3,13 @@
 Indore residents face significant challenges when attempting to locate the exact offices of various IMC departments. This lack of easily accessible information leads to confusion, wasted time, and frustration among citizens. Current methods for finding office locations are inefficient and outdated, often resulting in unnecessary delays and inefficiencies in accessing municipal services.
 
 # Solution
+
 # Project 
 
 [![Live Review](https://img.shields.io/badge/Live%20Review-Click%20Here-brightgreen?style=for-the-badge)](https://geetanshi-jain.github.io/IWM_IMC_GoogleMap_FinalProject/)
+![Your Image Alt Text](![WhatsApp Image 2024-08-25 at 10 08 33_466cd073](https://github.com/user-attachments/assets/69d5839f-93d4-47d3-b447-e1562f8f450c))
+
+
 # IMC Office Locator Website
 
 This project is a website for indicating 
