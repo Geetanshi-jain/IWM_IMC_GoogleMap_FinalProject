@@ -7,7 +7,8 @@ Indore residents face significant challenges when attempting to locate the exact
 # Project 
 
 [![Live Review](https://img.shields.io/badge/Live%20Review-Click%20Here-brightgreen?style=for-the-badge)](https://geetanshi-jain.github.io/IWM_IMC_GoogleMap_FinalProject/)
-![Your Image Alt Text](![WhatsApp Image 2024-08-25 at 10 08 33_466cd073](https://github.com/user-attachments/assets/69d5839f-93d4-47d3-b447-e1562f8f450c))
+![Scan and Go](https://your-repository-url/)
+![WhatsApp Image 2024-08-25 at 10 08 33_430c98ca](https://github.com/user-attachments/assets/5a325204-1e5b-455c-b642-0d11ab3697ad)
 
 
 # IMC Office Locator Website
